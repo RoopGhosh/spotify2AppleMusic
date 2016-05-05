@@ -1,0 +1,701 @@
+{
+  "href" : "https://api.spotify.com/v1/users/roopkumarghosh/playlists?offset=0&limit=50",
+  "items" : [ {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/119641708/playlist/1tl4L77FJju5zp9bJC83u8"
+    },
+    "href" : "https://api.spotify.com/v1/users/119641708/playlists/1tl4L77FJju5zp9bJC83u8",
+    "id" : "1tl4L77FJju5zp9bJC83u8",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://u.scdn.co/images/pl/default/1e1afef288dacb5bbce4e257f3fbca01d2e07e6e",
+      "width" : null
+    } ],
+    "name" : "Axwell's Party Playlist",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/119641708"
+      },
+      "href" : "https://api.spotify.com/v1/users/119641708",
+      "id" : "119641708",
+      "type" : "user",
+      "uri" : "spotify:user:119641708"
+    },
+    "public" : true,
+    "snapshot_id" : "j06L9iuf3DNyotWhzRzXAB9oheCG3hbj8fnYhkMJZRkBF4y+9qNw/WeQ1SK2T9AN",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/119641708/playlists/1tl4L77FJju5zp9bJC83u8/tracks",
+      "total" : 26
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:119641708:playlist:1tl4L77FJju5zp9bJC83u8"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/roopkumarghosh/playlist/0kTucGMQsyPMbYMSZYdbbz"
+    },
+    "href" : "https://api.spotify.com/v1/users/roopkumarghosh/playlists/0kTucGMQsyPMbYMSZYdbbz",
+    "id" : "0kTucGMQsyPMbYMSZYdbbz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/670641dc4eebf09ca23d166c6412b99125cfc6bf8d4bb244107368c1f51b628cc75a952e709ec042e739d517831e480d35d32d985ed1e1d40ece8f6ae80ceaaf7ab331a35f3569e44bf4d73a075fa08a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/670641dc4eebf09ca23d166c6412b99125cfc6bf8d4bb244107368c1f51b628cc75a952e709ec042e739d517831e480d35d32d985ed1e1d40ece8f6ae80ceaaf7ab331a35f3569e44bf4d73a075fa08a",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/670641dc4eebf09ca23d166c6412b99125cfc6bf8d4bb244107368c1f51b628cc75a952e709ec042e739d517831e480d35d32d985ed1e1d40ece8f6ae80ceaaf7ab331a35f3569e44bf4d73a075fa08a",
+      "width" : 60
+    } ],
+    "name" : "House 128Bpm",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/roopkumarghosh"
+      },
+      "href" : "https://api.spotify.com/v1/users/roopkumarghosh",
+      "id" : "roopkumarghosh",
+      "type" : "user",
+      "uri" : "spotify:user:roopkumarghosh"
+    },
+    "public" : true,
+    "snapshot_id" : "JS8T/l1ZzWiAF+5Wx62t6xBoOoRKkHNoXRUC2hJmCCsTL7XwpSxnk3tUv8hvVgdF",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/roopkumarghosh/playlists/0kTucGMQsyPMbYMSZYdbbz/tracks",
+      "total" : 30
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:roopkumarghosh:playlist:0kTucGMQsyPMbYMSZYdbbz"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/12175709974/playlist/7M1OpZO9iZxTtxhHQmSmFG"
+    },
+    "href" : "https://api.spotify.com/v1/users/12175709974/playlists/7M1OpZO9iZxTtxhHQmSmFG",
+    "id" : "7M1OpZO9iZxTtxhHQmSmFG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/89fc5903ee5f92b19a9da898b80c60d46e3e112495659045e6271cd2ca07e0ba1176ad6ce24d7ce7437163b90394f4a50bbd13886526e888eccaa472506b3aee8a743d125460453499a56cb64e5a43ec",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/89fc5903ee5f92b19a9da898b80c60d46e3e112495659045e6271cd2ca07e0ba1176ad6ce24d7ce7437163b90394f4a50bbd13886526e888eccaa472506b3aee8a743d125460453499a56cb64e5a43ec",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/89fc5903ee5f92b19a9da898b80c60d46e3e112495659045e6271cd2ca07e0ba1176ad6ce24d7ce7437163b90394f4a50bbd13886526e888eccaa472506b3aee8a743d125460453499a56cb64e5a43ec",
+      "width" : 60
+    } ],
+    "name" : "Workout Mix",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/12175709974"
+      },
+      "href" : "https://api.spotify.com/v1/users/12175709974",
+      "id" : "12175709974",
+      "type" : "user",
+      "uri" : "spotify:user:12175709974"
+    },
+    "public" : true,
+    "snapshot_id" : "FC2nCidc3ycHt5Pc+uiu8ulY5+zCymbx5FtFXcr6w8ttM30CJZG7rbDbCKJd4igd",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/12175709974/playlists/7M1OpZO9iZxTtxhHQmSmFG/tracks",
+      "total" : 65
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:12175709974:playlist:7M1OpZO9iZxTtxhHQmSmFG"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/roopkumarghosh/playlist/5vSOrjAR905elBV8OVF8HN"
+    },
+    "href" : "https://api.spotify.com/v1/users/roopkumarghosh/playlists/5vSOrjAR905elBV8OVF8HN",
+    "id" : "5vSOrjAR905elBV8OVF8HN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/405c27f657486106cd8b187cfdd1b943fa31a6f6a2b200f79da6892ccc18a265f049d003a776b5d95071e008103bd8d28cf3a5c503dfa8c34edf8fa657d1e5831d46b1cbd86f84064cfa8b3cbbe5ae7b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/405c27f657486106cd8b187cfdd1b943fa31a6f6a2b200f79da6892ccc18a265f049d003a776b5d95071e008103bd8d28cf3a5c503dfa8c34edf8fa657d1e5831d46b1cbd86f84064cfa8b3cbbe5ae7b",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/405c27f657486106cd8b187cfdd1b943fa31a6f6a2b200f79da6892ccc18a265f049d003a776b5d95071e008103bd8d28cf3a5c503dfa8c34edf8fa657d1e5831d46b1cbd86f84064cfa8b3cbbe5ae7b",
+      "width" : 60
+    } ],
+    "name" : "houseMagic-1",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/roopkumarghosh"
+      },
+      "href" : "https://api.spotify.com/v1/users/roopkumarghosh",
+      "id" : "roopkumarghosh",
+      "type" : "user",
+      "uri" : "spotify:user:roopkumarghosh"
+    },
+    "public" : true,
+    "snapshot_id" : "s2ybR1U4Qd+uDnNWo/cvRzFBjtw829Mp+NDsYhKlSeS6r+ey1/JmOM1aBVbPq7wb",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/roopkumarghosh/playlists/5vSOrjAR905elBV8OVF8HN/tracks",
+      "total" : 30
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:roopkumarghosh:playlist:5vSOrjAR905elBV8OVF8HN"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/spotify_uk_/playlist/7wUUwoxU2S6BRKA2bDPYKD"
+    },
+    "href" : "https://api.spotify.com/v1/users/spotify_uk_/playlists/7wUUwoxU2S6BRKA2bDPYKD",
+    "id" : "7wUUwoxU2S6BRKA2bDPYKD",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://u.scdn.co/images/pl/default/2ee70094c5f66559aeff21d9c88277eead1f38d3",
+      "width" : null
+    } ],
+    "name" : "Massive Dance Hits",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/spotify_uk_"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify_uk_",
+      "id" : "spotify_uk_",
+      "type" : "user",
+      "uri" : "spotify:user:spotify_uk_"
+    },
+    "public" : true,
+    "snapshot_id" : "96qW6VRv8F/Stea+s7dhx78OO23kc1TzLbWow3jcBb/67jF4FjiieKgKFwakwZor",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/spotify_uk_/playlists/7wUUwoxU2S6BRKA2bDPYKD/tracks",
+      "total" : 70
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:spotify_uk_:playlist:7wUUwoxU2S6BRKA2bDPYKD"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/davidqazse/playlist/50WCk5HSH1m54ObS9cZQhb"
+    },
+    "href" : "https://api.spotify.com/v1/users/davidqazse/playlists/50WCk5HSH1m54ObS9cZQhb",
+    "id" : "50WCk5HSH1m54ObS9cZQhb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/4fda6d60913150aa1160bbe03b1ef8d34bc15c1a80e75e1289305f100faf7ebe24efa30e71824a8284ecc870841765f2be3a0cfbc79e7153b2c7c359855caede1353722cd2e6e47cdecbdf5895a1cd22",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/4fda6d60913150aa1160bbe03b1ef8d34bc15c1a80e75e1289305f100faf7ebe24efa30e71824a8284ecc870841765f2be3a0cfbc79e7153b2c7c359855caede1353722cd2e6e47cdecbdf5895a1cd22",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/4fda6d60913150aa1160bbe03b1ef8d34bc15c1a80e75e1289305f100faf7ebe24efa30e71824a8284ecc870841765f2be3a0cfbc79e7153b2c7c359855caede1353722cd2e6e47cdecbdf5895a1cd22",
+      "width" : 60
+    } ],
+    "name" : "SwedisH HOuSe MaFia",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/davidqazse"
+      },
+      "href" : "https://api.spotify.com/v1/users/davidqazse",
+      "id" : "davidqazse",
+      "type" : "user",
+      "uri" : "spotify:user:davidqazse"
+    },
+    "public" : true,
+    "snapshot_id" : "gqyF9o21vxVwkyeOSOUUGA2sSCWwf5a+jERmvzsjEbK2pPDC4iNc7S+1hbswU9Al",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/davidqazse/playlists/50WCk5HSH1m54ObS9cZQhb/tracks",
+      "total" : 51
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:davidqazse:playlist:50WCk5HSH1m54ObS9cZQhb"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/topsify/playlist/1KNl4AYfgZtOVm9KHkhPTF"
+    },
+    "href" : "https://api.spotify.com/v1/users/topsify/playlists/1KNl4AYfgZtOVm9KHkhPTF",
+    "id" : "1KNl4AYfgZtOVm9KHkhPTF",
+    "images" : [ {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f7b182d0f12680d137140c469bb858ca0368fb8a",
+      "width" : 300
+    } ],
+    "name" : "Trending 20",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/topsify"
+      },
+      "href" : "https://api.spotify.com/v1/users/topsify",
+      "id" : "topsify",
+      "type" : "user",
+      "uri" : "spotify:user:topsify"
+    },
+    "public" : true,
+    "snapshot_id" : "J/+omdkem+TYzsyg4jt9tPoPy43mWWx8ttLnhsQcc2BTKfNn3NU/U/TXyvRtTGSg",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/topsify/playlists/1KNl4AYfgZtOVm9KHkhPTF/tracks",
+      "total" : 20
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:topsify:playlist:1KNl4AYfgZtOVm9KHkhPTF"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/1114345046/playlist/0y5NS2VvPOqVhiFgZlBELY"
+    },
+    "href" : "https://api.spotify.com/v1/users/1114345046/playlists/0y5NS2VvPOqVhiFgZlBELY",
+    "id" : "0y5NS2VvPOqVhiFgZlBELY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/daf7c51dbb1f0a12e3ab9e7e100fa12e9d411a0d",
+      "width" : 640
+    } ],
+    "name" : "Calvin Harris",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/1114345046"
+      },
+      "href" : "https://api.spotify.com/v1/users/1114345046",
+      "id" : "1114345046",
+      "type" : "user",
+      "uri" : "spotify:user:1114345046"
+    },
+    "public" : true,
+    "snapshot_id" : "aqEx/cp6afvt6PGjpy5caIwpLJidX9/V6pU/FHxtNKhbxuNq8YPVtpFIJ+vKSiOb",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/1114345046/playlists/0y5NS2VvPOqVhiFgZlBELY/tracks",
+      "total" : 11
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:1114345046:playlist:0y5NS2VvPOqVhiFgZlBELY"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/frollic123/playlist/3Frly5RkiXwaPnsOLbKfN7"
+    },
+    "href" : "https://api.spotify.com/v1/users/frollic123/playlists/3Frly5RkiXwaPnsOLbKfN7",
+    "id" : "3Frly5RkiXwaPnsOLbKfN7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/cb1f73d7ce50dc2faa502295acb1fee735f8b26880e75e1289305f100faf7ebe24efa30e71824a82b448fa25010d4d2bbbfec1d462bb12993b5d3239c83dd7e4efdc228496b46acca04e863bcc6b8772",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/cb1f73d7ce50dc2faa502295acb1fee735f8b26880e75e1289305f100faf7ebe24efa30e71824a82b448fa25010d4d2bbbfec1d462bb12993b5d3239c83dd7e4efdc228496b46acca04e863bcc6b8772",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/cb1f73d7ce50dc2faa502295acb1fee735f8b26880e75e1289305f100faf7ebe24efa30e71824a82b448fa25010d4d2bbbfec1d462bb12993b5d3239c83dd7e4efdc228496b46acca04e863bcc6b8772",
+      "width" : 60
+    } ],
+    "name" : "SHM - Until Now",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/frollic123"
+      },
+      "href" : "https://api.spotify.com/v1/users/frollic123",
+      "id" : "frollic123",
+      "type" : "user",
+      "uri" : "spotify:user:frollic123"
+    },
+    "public" : true,
+    "snapshot_id" : "kFOQXaNTRWez9DWEdIPNh6AylAm+IsO7TJV0XYEQYB/WVDiq7PENtejxVunkNP7q",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/frollic123/playlists/3Frly5RkiXwaPnsOLbKfN7/tracks",
+      "total" : 40
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:frollic123:playlist:3Frly5RkiXwaPnsOLbKfN7"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/roopkumarghosh/playlist/0xbMNpr1zGTGDvxr0uv1uO"
+    },
+    "href" : "https://api.spotify.com/v1/users/roopkumarghosh/playlists/0xbMNpr1zGTGDvxr0uv1uO",
+    "id" : "0xbMNpr1zGTGDvxr0uv1uO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/fd3cac76a8f1f3cab516f06873eeec16977efdf0ae9bbe8085200b8a722592550abb439d79a0e062067a5d9e1f6a538e5af35d972dc4e815b6a9a98128900981731434c7864bba662fca08b19bdb2a69",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/fd3cac76a8f1f3cab516f06873eeec16977efdf0ae9bbe8085200b8a722592550abb439d79a0e062067a5d9e1f6a538e5af35d972dc4e815b6a9a98128900981731434c7864bba662fca08b19bdb2a69",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/fd3cac76a8f1f3cab516f06873eeec16977efdf0ae9bbe8085200b8a722592550abb439d79a0e062067a5d9e1f6a538e5af35d972dc4e815b6a9a98128900981731434c7864bba662fca08b19bdb2a69",
+      "width" : 60
+    } ],
+    "name" : "Liked from Radio",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/roopkumarghosh"
+      },
+      "href" : "https://api.spotify.com/v1/users/roopkumarghosh",
+      "id" : "roopkumarghosh",
+      "type" : "user",
+      "uri" : "spotify:user:roopkumarghosh"
+    },
+    "public" : false,
+    "snapshot_id" : "PboYuDyrNZyTYoPXq+dLMQZa+81hIBnaKTKr1nsnFdqNOiqsKrMcOF42T8DnXRxl",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/roopkumarghosh/playlists/0xbMNpr1zGTGDvxr0uv1uO/tracks",
+      "total" : 6
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:roopkumarghosh:playlist:0xbMNpr1zGTGDvxr0uv1uO"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/spotifydiscover/playlist/0DYKKonPX5Ogt12K9F6RUf"
+    },
+    "href" : "https://api.spotify.com/v1/users/spotifydiscover/playlists/0DYKKonPX5Ogt12K9F6RUf",
+    "id" : "0DYKKonPX5Ogt12K9F6RUf",
+    "images" : [ {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8f5aaf6fed40ace25b38a62d62eaef5d4b788126",
+      "width" : 300
+    } ],
+    "name" : "Discover Weekly",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/spotifydiscover"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotifydiscover",
+      "id" : "spotifydiscover",
+      "type" : "user",
+      "uri" : "spotify:user:spotifydiscover"
+    },
+    "public" : false,
+    "snapshot_id" : "CYoIW6Z/BcLWgYGPhc2C/vhOogznZW2RD8Lp61iarXWaD/IyWrrKdm5LTAYBUYZb",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/spotifydiscover/playlists/0DYKKonPX5Ogt12K9F6RUf/tracks",
+      "total" : 30
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:spotifydiscover:playlist:0DYKKonPX5Ogt12K9F6RUf"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/dimitrivegas-likemike/playlist/5ZgnTlYPLATJiTg9yTgppb"
+    },
+    "href" : "https://api.spotify.com/v1/users/dimitrivegas-likemike/playlists/5ZgnTlYPLATJiTg9yTgppb",
+    "id" : "5ZgnTlYPLATJiTg9yTgppb",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://u.scdn.co/images/pl/default/fc81d4581f3ff7a80bec83fe6a6aed672276ab7f",
+      "width" : null
+    } ],
+    "name" : "Tomorrowland Official Playlist",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/dimitrivegas-likemike"
+      },
+      "href" : "https://api.spotify.com/v1/users/dimitrivegas-likemike",
+      "id" : "dimitrivegas-likemike",
+      "type" : "user",
+      "uri" : "spotify:user:dimitrivegas-likemike"
+    },
+    "public" : false,
+    "snapshot_id" : "y2JO5EexBjm/SPk6tBFYbSYaimli39MCvYhGIKF1FedqRcXlcU5m6c9iyrvSGirN",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/dimitrivegas-likemike/playlists/5ZgnTlYPLATJiTg9yTgppb/tracks",
+      "total" : 257
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:dimitrivegas-likemike:playlist:5ZgnTlYPLATJiTg9yTgppb"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/vshingwani/playlist/2UGjYm38hL5idrGoCY2KYY"
+    },
+    "href" : "https://api.spotify.com/v1/users/vshingwani/playlists/2UGjYm38hL5idrGoCY2KYY",
+    "id" : "2UGjYm38hL5idrGoCY2KYY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/f72645e0514de88c1d427bdc8371fa0fcdab28b53fe96029d51ce0c7ee65c183a3d9028b12c93614ba603072dfe856b7dc5e4594a3d4968e20555fd709cc1c77be62121206110266c91771a637ec2bce",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/f72645e0514de88c1d427bdc8371fa0fcdab28b53fe96029d51ce0c7ee65c183a3d9028b12c93614ba603072dfe856b7dc5e4594a3d4968e20555fd709cc1c77be62121206110266c91771a637ec2bce",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/f72645e0514de88c1d427bdc8371fa0fcdab28b53fe96029d51ce0c7ee65c183a3d9028b12c93614ba603072dfe856b7dc5e4594a3d4968e20555fd709cc1c77be62121206110266c91771a637ec2bce",
+      "width" : 60
+    } ],
+    "name" : "Indian songs",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/vshingwani"
+      },
+      "href" : "https://api.spotify.com/v1/users/vshingwani",
+      "id" : "vshingwani",
+      "type" : "user",
+      "uri" : "spotify:user:vshingwani"
+    },
+    "public" : false,
+    "snapshot_id" : "GdHlXcNB/FhjzAd7XJHNxIlgt9CvDOAUskTDlLd5H4NivbAGxpNteMac7cfwQyy9",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/vshingwani/playlists/2UGjYm38hL5idrGoCY2KYY/tracks",
+      "total" : 89
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:vshingwani:playlist:2UGjYm38hL5idrGoCY2KYY"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/12175709974/playlist/4AQ57Is7kSNC9DoB25R7F6"
+    },
+    "href" : "https://api.spotify.com/v1/users/12175709974/playlists/4AQ57Is7kSNC9DoB25R7F6",
+    "id" : "4AQ57Is7kSNC9DoB25R7F6",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/89fc5903ee5f92b19a9da898b80c60d46e3e1124b1078fb93d45dc07f32199787615cb8397598f123a897c69cb821b38eeb5ff734cc4f82b39e52f5c50988c8556dd6264f378c13d51f363f4ee6c0625",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/89fc5903ee5f92b19a9da898b80c60d46e3e1124b1078fb93d45dc07f32199787615cb8397598f123a897c69cb821b38eeb5ff734cc4f82b39e52f5c50988c8556dd6264f378c13d51f363f4ee6c0625",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/89fc5903ee5f92b19a9da898b80c60d46e3e1124b1078fb93d45dc07f32199787615cb8397598f123a897c69cb821b38eeb5ff734cc4f82b39e52f5c50988c8556dd6264f378c13d51f363f4ee6c0625",
+      "width" : 60
+    } ],
+    "name" : "One",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/12175709974"
+      },
+      "href" : "https://api.spotify.com/v1/users/12175709974",
+      "id" : "12175709974",
+      "type" : "user",
+      "uri" : "spotify:user:12175709974"
+    },
+    "public" : false,
+    "snapshot_id" : "8mPq7AU5b6eqlsZ9NIcuN7MvjBwaTp0mllYypDwfaVisaUKx10pqx2nuWmDZWcIl",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/12175709974/playlists/4AQ57Is7kSNC9DoB25R7F6/tracks",
+      "total" : 338
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:12175709974:playlist:4AQ57Is7kSNC9DoB25R7F6"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/roopkumarghosh/playlist/6Jf1hekLIRtv3rLCVua5Ca"
+    },
+    "href" : "https://api.spotify.com/v1/users/roopkumarghosh/playlists/6Jf1hekLIRtv3rLCVua5Ca",
+    "id" : "6Jf1hekLIRtv3rLCVua5Ca",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/1815720d5998c5dd0dc6791f67ffc20948e2d0fdd740b579126f7591f6cf6dda5674cbefcbcdee8eef490ab83905781ff2c692bff173b456f641d1941e95e13d082e43c547dadd93808dceeb99f589cf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/1815720d5998c5dd0dc6791f67ffc20948e2d0fdd740b579126f7591f6cf6dda5674cbefcbcdee8eef490ab83905781ff2c692bff173b456f641d1941e95e13d082e43c547dadd93808dceeb99f589cf",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/1815720d5998c5dd0dc6791f67ffc20948e2d0fdd740b579126f7591f6cf6dda5674cbefcbcdee8eef490ab83905781ff2c692bff173b456f641d1941e95e13d082e43c547dadd93808dceeb99f589cf",
+      "width" : 60
+    } ],
+    "name" : "Runners Up",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/roopkumarghosh"
+      },
+      "href" : "https://api.spotify.com/v1/users/roopkumarghosh",
+      "id" : "roopkumarghosh",
+      "type" : "user",
+      "uri" : "spotify:user:roopkumarghosh"
+    },
+    "public" : true,
+    "snapshot_id" : "j2U1M5xrur65jdaE4ia+H+J8iP/X4rXRadzPE/g4p/W92NMK++KgYBTRkO354/VK",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/roopkumarghosh/playlists/6Jf1hekLIRtv3rLCVua5Ca/tracks",
+      "total" : 30
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:roopkumarghosh:playlist:6Jf1hekLIRtv3rLCVua5Ca"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/roopkumarghosh/playlist/3HdcS5J9HAD9WiFFmuGOp7"
+    },
+    "href" : "https://api.spotify.com/v1/users/roopkumarghosh/playlists/3HdcS5J9HAD9WiFFmuGOp7",
+    "id" : "3HdcS5J9HAD9WiFFmuGOp7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/f70aab3fe4b1198297ce007819c88cfc249c31221815720d5998c5dd0dc6791f67ffc20948e2d0fd8584e73147591d9a558088be8ea8afecca95889bf4ed2eb54cb167032ebbaf5236331f263cfca9e9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/f70aab3fe4b1198297ce007819c88cfc249c31221815720d5998c5dd0dc6791f67ffc20948e2d0fd8584e73147591d9a558088be8ea8afecca95889bf4ed2eb54cb167032ebbaf5236331f263cfca9e9",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/f70aab3fe4b1198297ce007819c88cfc249c31221815720d5998c5dd0dc6791f67ffc20948e2d0fd8584e73147591d9a558088be8ea8afecca95889bf4ed2eb54cb167032ebbaf5236331f263cfca9e9",
+      "width" : 60
+    } ],
+    "name" : "Alpha Phase",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/roopkumarghosh"
+      },
+      "href" : "https://api.spotify.com/v1/users/roopkumarghosh",
+      "id" : "roopkumarghosh",
+      "type" : "user",
+      "uri" : "spotify:user:roopkumarghosh"
+    },
+    "public" : true,
+    "snapshot_id" : "pkmD9sV71Wxbm7bT/veNaIR7Re1Nn7kqgCsa6tJzB84sCRTlPmOE6EzC25e7PmOu",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/roopkumarghosh/playlists/3HdcS5J9HAD9WiFFmuGOp7/tracks",
+      "total" : 33
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:roopkumarghosh:playlist:3HdcS5J9HAD9WiFFmuGOp7"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/roopkumarghosh/playlist/0VzqO0tNMV1OOQqlhL4ZNR"
+    },
+    "href" : "https://api.spotify.com/v1/users/roopkumarghosh/playlists/0VzqO0tNMV1OOQqlhL4ZNR",
+    "id" : "0VzqO0tNMV1OOQqlhL4ZNR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/6e94ab39c917096d876b895dbab0019953d27a96395ec95d84be3b8f03acb0e2e5d45038a56c79c270ebea3bb8f4517174fce02354cda4fe95b556251815720d5998c5dd0dc6791f67ffc20948e2d0fd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/6e94ab39c917096d876b895dbab0019953d27a96395ec95d84be3b8f03acb0e2e5d45038a56c79c270ebea3bb8f4517174fce02354cda4fe95b556251815720d5998c5dd0dc6791f67ffc20948e2d0fd",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/6e94ab39c917096d876b895dbab0019953d27a96395ec95d84be3b8f03acb0e2e5d45038a56c79c270ebea3bb8f4517174fce02354cda4fe95b556251815720d5998c5dd0dc6791f67ffc20948e2d0fd",
+      "width" : 60
+    } ],
+    "name" : "Lets GO",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/roopkumarghosh"
+      },
+      "href" : "https://api.spotify.com/v1/users/roopkumarghosh",
+      "id" : "roopkumarghosh",
+      "type" : "user",
+      "uri" : "spotify:user:roopkumarghosh"
+    },
+    "public" : true,
+    "snapshot_id" : "i9tVq5JWZ7AbNk3bm45qdvo9qDLg4dZCXgWWCf6rC7bSZZ6zI//RGYon3fjIYWOx",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/roopkumarghosh/playlists/0VzqO0tNMV1OOQqlhL4ZNR/tracks",
+      "total" : 34
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:roopkumarghosh:playlist:0VzqO0tNMV1OOQqlhL4ZNR"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/roopkumarghosh/playlist/1jdG86GsYBhoxLJn867jdM"
+    },
+    "href" : "https://api.spotify.com/v1/users/roopkumarghosh/playlists/1jdG86GsYBhoxLJn867jdM",
+    "id" : "1jdG86GsYBhoxLJn867jdM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/3acb14d564c138fe3576a94397e8c08f13291f43eb4670fd970449ec78e022f53ad8d7ba3c6d32fdb599bb4d607a251871fb516ced0b6be65330a2e7fe2f330e0a7c1b30b1b4b7f80c10902f18fcfb67",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/3acb14d564c138fe3576a94397e8c08f13291f43eb4670fd970449ec78e022f53ad8d7ba3c6d32fdb599bb4d607a251871fb516ced0b6be65330a2e7fe2f330e0a7c1b30b1b4b7f80c10902f18fcfb67",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/3acb14d564c138fe3576a94397e8c08f13291f43eb4670fd970449ec78e022f53ad8d7ba3c6d32fdb599bb4d607a251871fb516ced0b6be65330a2e7fe2f330e0a7c1b30b1b4b7f80c10902f18fcfb67",
+      "width" : 60
+    } ],
+    "name" : "First Love",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/roopkumarghosh"
+      },
+      "href" : "https://api.spotify.com/v1/users/roopkumarghosh",
+      "id" : "roopkumarghosh",
+      "type" : "user",
+      "uri" : "spotify:user:roopkumarghosh"
+    },
+    "public" : true,
+    "snapshot_id" : "L++TGEfEQGAyZytuRvtBYdKyvagpNhPODSxIOtJJfGJdFOE4PLfqqa451gQlsBRA",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/roopkumarghosh/playlists/1jdG86GsYBhoxLJn867jdM/tracks",
+      "total" : 58
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:roopkumarghosh:playlist:1jdG86GsYBhoxLJn867jdM"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/roopkumarghosh/playlist/0yR6hkz9GfXq3qztGgOEMO"
+    },
+    "href" : "https://api.spotify.com/v1/users/roopkumarghosh/playlists/0yR6hkz9GfXq3qztGgOEMO",
+    "id" : "0yR6hkz9GfXq3qztGgOEMO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c649d891ee6e0b86bf460bca264bd66715bd87f4",
+      "width" : 640
+    } ],
+    "name" : "Windows Media Player",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/roopkumarghosh"
+      },
+      "href" : "https://api.spotify.com/v1/users/roopkumarghosh",
+      "id" : "roopkumarghosh",
+      "type" : "user",
+      "uri" : "spotify:user:roopkumarghosh"
+    },
+    "public" : false,
+    "snapshot_id" : "p057N/nv2+ARGCx6JymQQUrxOB7xOS9kohRU1Iix/Lxt/kBvwCXioHa5sqTngsPr",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/roopkumarghosh/playlists/0yR6hkz9GfXq3qztGgOEMO/tracks",
+      "total" : 1
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:roopkumarghosh:playlist:0yR6hkz9GfXq3qztGgOEMO"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/roopkumarghosh/playlist/2ovVPOGj63zdjA2GQRdG0d"
+    },
+    "href" : "https://api.spotify.com/v1/users/roopkumarghosh/playlists/2ovVPOGj63zdjA2GQRdG0d",
+    "id" : "2ovVPOGj63zdjA2GQRdG0d",
+    "images" : [ ],
+    "name" : "iTunes",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/roopkumarghosh"
+      },
+      "href" : "https://api.spotify.com/v1/users/roopkumarghosh",
+      "id" : "roopkumarghosh",
+      "type" : "user",
+      "uri" : "spotify:user:roopkumarghosh"
+    },
+    "public" : false,
+    "snapshot_id" : "aZe/wV2mJ05boR721BqLPH+OsrX9zyMWeGh7CQj/qlWdplccKno//7oFvw1lZdq1",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/roopkumarghosh/playlists/2ovVPOGj63zdjA2GQRdG0d/tracks",
+      "total" : 0
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:roopkumarghosh:playlist:2ovVPOGj63zdjA2GQRdG0d"
+  } ],
+  "limit" : 50,
+  "next" : null,
+  "offset" : 0,
+  "previous" : null,
+  "total" : 20
+}
