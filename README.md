@@ -6,7 +6,7 @@ exports playlist from spotify and adds them to Apple music library
 ## The last step may take hours. Make sure you do it when you wont be using your system....
 
 1. pull up the artifacts forlder . 
-2. run Spotify2AppleMusic.jar inside the folder 'Spotify2AppleMusic_jar'
+2. run Spotify2AppleMusic.jar inside the folder <b>Spotify2AppleMusic_jar</b>
 3. to run the jar. use command line : java -jar 'absolute path to jar file'
 4. it would prompt you to copy an url to your web browser.
 5. after allowing access to my developer App from spotify "playlist extractor" you would be redirectd a linkedIn profile.
@@ -22,3 +22,7 @@ exports playlist from spotify and adds them to Apple music library
 14. Sit back and enjoy sikuli which creates a fake mouse and mimics a user action. 
 
 PS : The last step can take hours. Make sure you do it when you wont be using your system....
+
+
+#TODO:
+* Come up with a todo.
